@@ -1,0 +1,30 @@
+{
+  "name": "mimosa-livescript",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbashford/mimosa-livescript",
+  "author": "David Bashford",
+  "description": "A LiveScript compiler for Mimosa 2.0+",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-livescript"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "livescript"
+  ],
+  "dependencies": {
+    "LiveScript": "1.2.0"
+  },
+  "license": "MIT",
+  "main": "./src",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
