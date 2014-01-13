@@ -17,7 +17,8 @@
   "keywords": [
     "mimosa",
     "mmodule",
-    "livescript"
+    "livescript",
+    "compiler"
   ],
   "dependencies": {
     "LiveScript": "1.2.0"
