@@ -21,7 +21,7 @@
     "compiler"
   ],
   "dependencies": {
-    "LiveScript": "1.2.0"
+    "LiveScript": "1.3.0"
   },
   "license": "MIT",
   "main": "./src",
