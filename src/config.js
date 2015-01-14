@@ -5,7 +5,7 @@ exports.defaults = function() {
     livescript: {
       extensions: ["ls"],
       options: {
-        bare:true
+        bare: true
       }
     }
   };
