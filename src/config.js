@@ -26,7 +26,7 @@ exports.validate = function(config, validators) {
   if ( validators.ifExistsIsObject( errors, "livescript config", config.livescript ) ) {
 
     if ( !config.livescript.lib ) {
-      config.livescript.lib = require( "LiveScript" );
+      config.livescript.lib = require( "livescript" );
     }
 
     if ( validators.isArrayOfStringsMustExist( errors, "livescript.extensions", config.livescript.extensions ) ) {
